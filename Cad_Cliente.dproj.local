@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2012/09/20 14:21:05.000.543,=C:\Users\tferrei\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/09/20 14:21:26.000.466,=C:\Users\tferrei\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/09/20 14:21:59.000.932,D:\Projetos TI\DelphiXE2\Cadastro\Cliente\uPrincipal.dfm=C:\Users\tferrei\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2012/09/20 14:21:59.000.932,D:\Projetos TI\DelphiXE2\Cadastro\Cliente\uPrincipal.pas=C:\Users\tferrei\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/09/20 14:22:10.000.460,D:\Projetos TI\DelphiXE2\Cadastro\Cliente\Cad_Cliente.dproj=C:\Users\tferrei\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2012/09/20 14:22:29.000.141,=D:\Projetos TI\DelphiXE2\Cadastro\Cliente\Unit1.pas</Transaction>
+    <Transaction>2012/09/20 14:22:46.000.231,D:\Projetos TI\DelphiXE2\Cadastro\Cliente\uDM01.dfm=D:\Projetos TI\DelphiXE2\Cadastro\Cliente\Unit1.dfm</Transaction>
+    <Transaction>2012/09/20 14:22:46.000.231,D:\Projetos TI\DelphiXE2\Cadastro\Cliente\uDM01.pas=D:\Projetos TI\DelphiXE2\Cadastro\Cliente\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
